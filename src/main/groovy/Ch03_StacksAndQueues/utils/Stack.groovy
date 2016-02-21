@@ -1,8 +1,8 @@
 package Ch03_StacksAndQueues.utils
 
+import Ch02_LinkedLists.utils.Node
 import groovy.transform.EqualsAndHashCode
 import groovy.transform.ToString
-import Ch02_LinkedLists.utils.Node
 
 @EqualsAndHashCode(includeFields = true) @ToString(includePackage = false)
 class Stack<T> {

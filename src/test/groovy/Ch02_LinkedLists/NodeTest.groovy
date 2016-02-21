@@ -1,7 +1,8 @@
 package Ch02_LinkedLists
 
 import Ch02_LinkedLists.utils.Node
-import spock.lang.*
+import spock.lang.Specification
+import spock.lang.Unroll
 
 @Unroll class NodeTest extends Specification {
     /*@formatter:off*/

@@ -1,7 +1,8 @@
 package Ch03_StacksAndQueues.utils
 
-import groovy.transform.*
 import Ch02_LinkedLists.utils.Node
+import groovy.transform.EqualsAndHashCode
+import groovy.transform.ToString
 
 @EqualsAndHashCode(includes = 'head', includeFields = true) @ToString(includes = 'head', includePackage = false)
 class Queue<T> {
