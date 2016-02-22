@@ -31,3 +31,18 @@ Feel free to browse the solutions and tests for the following exercises:
 * [04_QueueViaStacks](src/main/groovy/Ch03_StacksAndQueues/_03_04_QueueViaStacks.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_04_QueueViaStacksTest.groovy)
 * [05_SortableStack](src/main/groovy/Ch03_StacksAndQueues/_03_05_SortableStack.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_05_SortableStackTest.groovy)
 * [06_LinkedQueues](src/main/groovy/Ch03_StacksAndQueues/_03_06_LinkedQueues.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_06_LinkedQueuesTest.groovy) 
+
+
+### [Ch04_TreesAndGraphs](src/main/groovy/Ch04_TreesAndGraphs) + [tests](src/test/groovy/Ch04_TreesAndGraphs)
+* [01_RouteFind](src/main/groovy/Ch04_TreesAndGraphs/_04_01_RouteFind.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_01_RouteFindTest.groovy)
+* [02_MinimalTree](src/main/groovy/Ch04_TreesAndGraphs/_04_02_MinimalTree.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_02_MinimalTreeTest.groovy)
+* [03_DepthLists](src/main/groovy/Ch04_TreesAndGraphs/_04_03_DepthLists.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_03_DepthListsTest.groovy)
+* [04_CheckBalanced](src/main/groovy/Ch04_TreesAndGraphs/_04_04_CheckBalanced.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_04_CheckBalancedTest.groovy)
+* [05_CheckBst](src/main/groovy/Ch04_TreesAndGraphs/_04_05_CheckBst.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_05_CheckBstTest.groovy)
+* [06_Successor](src/main/groovy/Ch04_TreesAndGraphs/_04_06_Successor.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_06_SuccessorTest.groovy)
+* [07_BuildOrder](src/main/groovy/Ch04_TreesAndGraphs/_04_07_BuildOrder.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_07_BuildOrderTest.groovy)
+* [08_FirstCommonAncestor](src/main/groovy/Ch04_TreesAndGraphs/_04_08_FirstCommonAncestor.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_08_FirstCommonAncestorTest.groovy)
+* [09_BstSequence](src/main/groovy/Ch04_TreesAndGraphs/_04_09_BstSequence.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_09_BstSequenceTest.groovy)
+* [10_CheckSubtree](src/main/groovy/Ch04_TreesAndGraphs/_04_10_CheckSubtree.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_10_CheckSubtreeTest.groovy)
+* [11_RandomTreeNode](src/main/groovy/Ch04_TreesAndGraphs/_04_11_RandomTreeNode.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_11_RandomTreeNodeTest.groovy)
+* [12_PathsWithSum](src/main/groovy/Ch04_TreesAndGraphs/_04_12_PathsWithSum.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_12_PathsWithSumTest.groovy)
