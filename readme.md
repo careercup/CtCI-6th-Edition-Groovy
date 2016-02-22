@@ -23,3 +23,11 @@ Feel free to browse the solutions and tests for the following exercises:
 * [06_Palindrome](src/main/groovy/Ch02_LinkedLists/_02_06_Palindrome.groovy) + [tests](src/test/groovy/Ch02_LinkedLists/_02_06_PalindromeTest.groovy)
 * [07_Intersection](src/main/groovy/Ch02_LinkedLists/_02_07_Intersection.groovy) + [tests](src/test/groovy/Ch02_LinkedLists/_02_07_IntersectionTest.groovy)
 * [08_Loop](src/main/groovy/Ch02_LinkedLists/_02_08_Loop.groovy) + [tests](src/test/groovy/Ch02_LinkedLists/_02_08_LoopTest.groovy)
+
+### [Ch03_StacksAndQueues](src/main/groovy/Ch03_StacksAndQueues) + [tests](src/test/groovy/Ch03_StacksAndQueues)
+* [01_MultiStack](src/main/groovy/Ch03_StacksAndQueues/_03_01_MultiStack.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_01_MultiStackTest.groovy)
+* [02_MinStack](src/main/groovy/Ch03_StacksAndQueues/_03_02_MinStack.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_02_MinStackTest.groovy)
+* [03_ChainedStacks](src/main/groovy/Ch03_StacksAndQueues/_03_03_ChainedStacks.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_03_ChainedStackTest.groovy)
+* [04_QueueViaStacks](src/main/groovy/Ch03_StacksAndQueues/_03_04_QueueViaStacks.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_04_QueueViaStacksTest.groovy)
+* [05_SortableStack](src/main/groovy/Ch03_StacksAndQueues/_03_05_SortableStack.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_05_SortableStackTest.groovy)
+* [06_LinkedQueues](src/main/groovy/Ch03_StacksAndQueues/_03_06_LinkedQueues.groovy) + [tests](src/test/groovy/Ch03_StacksAndQueues/_03_06_LinkedQueuesTest.groovy) 
