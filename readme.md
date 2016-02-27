@@ -46,3 +46,13 @@ Feel free to browse the solutions and tests for the following exercises:
 * [10_CheckSubtree](src/main/groovy/Ch04_TreesAndGraphs/_04_10_CheckSubtree.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_10_CheckSubtreeTest.groovy)
 * [11_RandomTreeNode](src/main/groovy/Ch04_TreesAndGraphs/_04_11_RandomTreeNode.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_11_RandomTreeNodeTest.groovy)
 * [12_PathsWithSum](src/main/groovy/Ch04_TreesAndGraphs/_04_12_PathsWithSum.groovy) + [tests](src/test/groovy/Ch04_TreesAndGraphs/_04_12_PathsWithSumTest.groovy)
+
+### [Ch05_BitManipulation](src/main/groovy/Ch05_BitManipulation) + [tests](src/test/groovy/Ch05_BitManipulation)
+* [01_Insertion](src/main/groovy/Ch05_BitManipulation/_05_01_Insertion.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_01_InsertionTest.groovy)
+* [02_BinaryTostring](src/main/groovy/Ch05_BitManipulation/_05_02_BinaryTostring.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_02_BinaryTostringTest.groovy)
+* [03_FlipBitToWin](src/main/groovy/Ch05_BitManipulation/_05_03_FlipBitToWin.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_03_FlipBitToWinTest.groovy)
+* [04_NextNumber](src/main/groovy/Ch05_BitManipulation/_05_04_NextNumber.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_04_NextNumberTest.groovy)
+* [05_PowerOfTwo](src/main/groovy/Ch05_BitManipulation/_05_05_PowerOfTwo.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_05_PowerOfTwoTest.groovy)
+* [06_Conversion](src/main/groovy/Ch05_BitManipulation/_05_06_Conversion.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_06_ConversionTest.groovy)
+* [07_PairwiseSwap](src/main/groovy/Ch05_BitManipulation/_05_07_PairwiseSwap.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_07_PairwiseSwapTest.groovy)
+* [08_DrawLine](src/main/groovy/Ch05_BitManipulation/_05_08_DrawLine.groovy) + [tests](src/test/groovy/Ch05_BitManipulation/_05_08_DrawLineTest.groovy)
